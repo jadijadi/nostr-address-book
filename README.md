@@ -13,7 +13,8 @@
 |Edward Snowden                                  |@Snowden        |5,800 K       |npub1sn0wdenkukak0d9dfczzeacvhkrgz92ak56egt7vdgzn8pv2wfqqhrjdv9,       |https://twitter.com/Snowden        |
 |Preston Pysh                                    |@PrestonPysh    |438 K         |npub1s5yq6wadwrxde4lhfs56gn64hwzuhnfa6r9mj476r5s4hkunzgzqrs6q7z        |https://twitter.com/PrestonPysh    |
 |Jeff Booth                                      |@JeffBooth      |346 K         |npub1s05p3ha7en49dv8429tkk07nnfa9pcwczkf5x5qrdraqshxdje9sq6eyhe        |https://twitter.com/JeffBooth      |
-|₿AEKCHAN 백찬                                     |@BAEKCHAN_129   |194 K         |npub130av8p08fuu9lr9zaxz2xmuwedggqlfescvy66cp7ud7hhethrcs8qxana        |https://twitter.com/BAEKCHAN_129   |
+|‌Jadi                                            |@Jadi           |195 K         |npub1c29weetz4uk46vl8ja6a98lxqfsz8e27vsdlcqlp8zeqvmkezyaqlupw98        |https://twitter.com/Jadi           |
+|₿AEKCHAN 백찬                                    |@BAEKCHAN_129   |194 K         |npub130av8p08fuu9lr9zaxz2xmuwedggqlfescvy66cp7ud7hhethrcs8qxana        |https://twitter.com/BAEKCHAN_129   |
 |BTC Sessions                                    |BTCsessions     |103 K         |npub1rxysxnjkhrmqd3ey73dp9n5y5yvyzcs64acc9g0k2epcpwwyya4spvhnp8        |https://twitter.com/BTCsessions    |
 |Willy Woo                                       |@woonomic       |100 K         |npub1clwvhf87gsn20v02ywd9vda6gratnp3v3jrtxvc0ue0f7en5xhmq3xxhme        |https://twitter.com/woonomic       |
 |_Checkɱate                                      |@_Checkmatey_   |74 K          |npub1qh5sal68c8swet6ut0w5evjmj6vnw29x3k967h7atn45unzjyeyq6ceh9r        |https://twitter.com/_Checkmatey_   |
